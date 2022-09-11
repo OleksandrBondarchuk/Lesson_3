@@ -1,0 +1,30 @@
+div.first{
+    color: yellow;
+}
+div.second{
+    color: blue;
+}
+.story {
+    color: rgb(208, 255, 0);
+}
+h1{
+    color: rgb(20, 255, 106);
+}
+h2{
+    color: black;
+}
+#top {
+    color: aqua;
+}
+li.point1 {
+    color: red;}
+
+.point1 + li {
+    color: rgb(29, 20, 20);
+}
+.story ~ p {
+    color: rebeccapurple ;
+}
+.links > p {
+    color: red ;
+}
